@@ -20,7 +20,7 @@ Checks:
 Reviewed by: —
 
 ## M2: Part A, Dabur (elements 1 to 6)
-Status: NOT STARTED
+Status: READY FOR REVIEW (drafts/part-a.md; docs/review/M2-verification.md)
 Checks:
 - E1: products, customers, fastest-growing segment with its revenue from the segment note.
 - E2: the unit, what is known per unit or "not disclosed" with where we looked, the one cost choice that explains the margin.
@@ -32,12 +32,12 @@ Checks:
 Reviewed by: —
 
 ## M3: Part B, Marico (element 7)
-Status: NOT STARTED
+Status: READY FOR REVIEW (drafts/part-b.md)
 Checks: two sentences on what it sells; OM, NM, ROCE, ROE, DuPont (ties); CCC (adds); PAT vs CFO last two years; borrowings/equity and interest cover; same definitions as Part A; 1 page.
 Reviewed by: —
 
 ## M4: Part C, the argument (elements 8 and 9)
-Status: NOT STARTED
+Status: IN FLIGHT: two options drafted (drafts/part-c-options.md); waiting on Ganesh's pick
 Checks: one company picked; the single deciding difference; three supporting numbers; conditions; the strongest case for the other company, answered; the switch number with a date. Max 2 pages. Gemini asked to argue the other side.
 Reviewed by: —
 
