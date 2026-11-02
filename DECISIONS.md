@@ -8,6 +8,8 @@
 | D4 | 2026-11-02 | GitHub repo `di-cap` is the system of record (repo-native profile) | Notion unreliable; mirrors Refund Genie build | Ganesh |
 | D5 | 2026-11-02 | Deadline 4 Nov 2026. Weekly pieces are not rebuilt one by one; their logic is folded straight into Parts A and B | Two days available; no earlier pieces were submitted | Claude, on Ganesh's deadline |
 | D6 | 2026-11-02 | Reflection done as a guided interview, then drafted from Ganesh's answers | Needs his own decisions and portfolio facts | Ganesh |
+| D7 | 2026-11-02 | Draft Parts A and B now; outline both Part C versions (back Dabur / back Marico); Ganesh picks after reading Part A | Recommendation must be his | Ganesh |
+| D8 | 2026-11-02 | Voice: first person, plain, short sentences | Brief asks for a personal recommendation in plain language | Ganesh |
 
 ## Open questions
 - Q1: RESOLVED 2026-11-02: hard deadline 5 Nov; target 4 Nov as buffer.
