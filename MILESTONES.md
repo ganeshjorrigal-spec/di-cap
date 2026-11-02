@@ -8,7 +8,7 @@ Checks: AGENTS, CHARTER, DECISIONS, MILESTONES, STATE, SCRATCHPAD, docs/log pres
 Reviewed by: —
 
 ## M1: Data pull, both companies
-Status: NOT STARTED
+Status: READY FOR REVIEW (evidence: data/checks.md all 0; docs/review/M1-verification.md)
 Scope: consolidated P&L, balance sheet, cash flow, segment revenue for Dabur and Marico, FY22 to FY26.
 Checks:
 - Every figure is a row in `data/numbers.csv` with source and location.

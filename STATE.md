@@ -1,19 +1,26 @@
 # STATE (overwritten each milestone)
 
-Updated: 2026-11-02
+Updated: 2026-11-02 20:30 IST
 
 ## Built
-- M0 repo scaffolding; course decks (S5 to S14) and summaries (S15, S16) plus the capstone brief as markdown in `docs/sources/course/`.
+- M0 repo scaffolding (READY FOR REVIEW).
+- M1 data layer (READY FOR REVIEW): `data/numbers.csv` (reported + calculated rows, each with source and definition), `data/ratios.md`, `data/checks.md` (all ties pass), built by `scripts/build_numbers.py`. Raw sources in `docs/archive/`. Gemini review + verification in `docs/review/M1-*`.
 
 ## In flight
-- M1 data pull.
+- Waiting on Ganesh: which company he leans to back (drives Part C framing).
+- Next: M2 Part A draft.
 
 ## Not started
-- M2 to M7.
+- M3 to M7.
+
+## Known gaps
+- Marico India vs International rupee split not in the documents read.
+- Dabur full-year India vs International split not in Q4 presentation; segment note is by product (Consumer Care, Food, Retail, Other).
+- Dabur FY25 lease liabilities not a separate line in the FY25 filing.
 
 ## Assumptions in force
-- 4 Nov 2026 is the target for all deliverables (see DECISIONS Q1).
-- Consolidated, FY24 to FY26 core.
+- Target 4 Nov 2026; hard deadline 5 Nov 2026.
+- Consolidated; closing balances everywhere; definitions as in numbers.csv.
 
 ## Next single action
-Pull Dabur's consolidated FY26, FY25, FY24 statements into `data/numbers.csv`.
+Draft Part A element 1 to 6 for Dabur in drafts/part-a.md.

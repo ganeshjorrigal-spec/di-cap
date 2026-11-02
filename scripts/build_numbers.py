@@ -104,7 +104,12 @@ for co, yrs in ((D, ("FY24", "FY25", "FY26")), (M, ("FY25", "FY26"))):
         c(co, y, "debt_to_equity", borrow / g(co, y, "eq_own"), "Borrowings / closing owners' equity")
         treas = g(co, y, "cash") + g(co, y, "bank") + g(co, y, "ci") + g(co, y, "nci_inv")
         c(co, y, "cash_and_investments", treas, "Cash + other bank balances + current investments + non-current investments", "Rs cr")
-        c(co, y, "net_debt", borrow - treas, "Borrowings - cash and investments (negative = net cash)", "Rs cr")
+        c(co, y, "net_cash", treas - borrow, "Cash and investments - borrowings (positive = net cash)", "Rs cr")
+        if (co, y, "lease_cur") in R:
+            lease = g(co, y, "lease_cur") + g(co, y, "lease_nc")
+            c(co, y, "lease_liabilities", lease, "Current + non-current lease liabilities", "Rs cr")
+            c(co, y, "debt_incl_leases_to_equity", (borrow + lease) / g(co, y, "eq_own"), "(Borrowings + lease liabilities) / owners' equity")
+            c(co, y, "roce_incl_leases", (g(co, y, "pbt") + g(co, y, "fin")) / (g(co, y, "eq_tot") + borrow + lease), "(PBT + finance costs) / (total equity + borrowings + leases)")
         ce = g(co, y, "eq_tot") + borrow
         c(co, y, "capital_employed", ce, "Total equity (incl. NCI) + borrowings", "Rs cr")
         c(co, y, "roce", (g(co, y, "pbt") + g(co, y, "fin")) / ce, "(PBT + finance costs) / capital employed")
@@ -159,7 +164,7 @@ with open("data/checks.md", "w") as f:
     for co, y, n, v in checks: f.write(f"| {co} | {y} | {n} | {v:.4f} |\n")
 # Ratio summary
 keys = ["rev", "gross_margin", "operating_margin", "net_margin", "roe", "asset_turnover", "equity_multiplier", "dupont_product", "roce", "roce_operating_ex_treasury",
-        "debt_to_equity", "net_debt", "interest_cover", "other_income_share_pbt", "receivable_days", "inventory_days", "payable_days", "ccc", "np", "cfo", "cfo_minus_pat", "cfo_to_pat",
+        "debt_to_equity", "debt_incl_leases_to_equity", "roce_incl_leases", "net_cash", "interest_cover", "other_income_share_pbt", "receivable_days", "inventory_days", "payable_days", "ccc", "np", "cfo", "cfo_minus_pat", "cfo_to_pat",
         "ad_to_sales", "employee_to_sales", "da_to_sales", "cash_and_investments"]
 with open("data/ratios.md", "w") as f:
     f.write("# Ratio summary (auto-generated; definitions in data/numbers.csv)\n\n| Metric | Dabur FY24 | Dabur FY25 | Dabur FY26 | Marico FY25 | Marico FY26 |\n|---|---|---|---|---|---|\n")
@@ -169,7 +174,7 @@ with open("data/ratios.md", "w") as f:
             v = R.get((co, y, k))
             if v is None: vals.append("n/a")
             elif k in ("receivable_days", "inventory_days", "payable_days", "ccc", "interest_cover"): vals.append(f"{v:,.1f}")
-            elif abs(v) < 5 and k not in ("rev", "np", "cfo"): vals.append(f"{v*100:.1f}%" if k not in ("asset_turnover", "equity_multiplier", "debt_to_equity", "cfo_to_pat") else f"{v:.2f}")
+            elif abs(v) < 5 and k not in ("rev", "np", "cfo"): vals.append(f"{v*100:.1f}%" if k not in ("asset_turnover", "equity_multiplier", "debt_to_equity", "debt_incl_leases_to_equity", "cfo_to_pat") else f"{v:.2f}")
             else: vals.append(f"{v:,.1f}")
         f.write(f"| {k} | " + " | ".join(vals) + " |\n")
     f.write("\n## Trends\n\n| Metric | FY22 | FY23 | FY24 | FY25 | FY26 |\n|---|---|---|---|---|---|\n")

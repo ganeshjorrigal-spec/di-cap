@@ -10,5 +10,5 @@
 | D6 | 2026-11-02 | Reflection done as a guided interview, then drafted from Ganesh's answers | Needs his own decisions and portfolio facts | Ganesh |
 
 ## Open questions
-- Q1: Is 4 Nov the deck deadline (24h before Session 18) only, or also the written submission? Working assumption: build everything for 4 Nov.
+- Q1: RESOLVED 2026-11-02: hard deadline 5 Nov; target 4 Nov as buffer.
 - Q2: Deck format: PDF built how (Slides artifact exported to PDF vs. pptx)? Decide at M6.
