@@ -6,7 +6,7 @@
 
 ## 1. What it sells, and to whom
 
-Dabur makes everyday herbal and Ayurvedic products: hair oils, toothpaste, Chyawanprash, honey, digestives, home care, juices and, since the Badshah acquisition, spices. It sells them through distributors and retailers to Indian households, and overseas markets such as the Middle East, Africa, Bangladesh, Turkey and the US made up ₹834 cr, about 27%, of Q4 FY26 revenue (Q4 FY26 investor presentation). The largest and fastest-growing reportable segment is **Consumer Care, ₹10,864 cr in FY26, up 6.9%** from ₹10,160 cr (82% of revenue). Food fell 4.0% to ₹2,016 cr (FY26 and FY25 segment notes).
+Dabur makes everyday herbal and Ayurvedic products: hair oils, toothpaste, Chyawanprash, honey, digestives, home care, juices and, since the Badshah acquisition, spices. It sells them through distributors and retailers to Indian households, and also sells in the Middle East, Africa, Bangladesh, Turkey and the US. The full-year India and overseas split is not in the audited statements, whose segment note is by product; the Q4 FY26 investor presentation puts overseas at ₹834 cr, about 27% of that quarter's revenue. The largest and fastest-growing reportable segment is **Consumer Care, ₹10,864 cr in FY26, up 6.9%** from ₹10,160 cr (82% of revenue). Food fell 4.0% to ₹2,016 cr; Retail, other segments and unallocated make up the remaining ₹313 cr (FY26 and FY25 segment notes).
 
 ## 2. How it makes money on each unit
 
@@ -22,7 +22,7 @@ The unit is one pack sold into the trade. Dabur does not disclose revenue or cos
 | Depreciation | 3.6 |
 | **Operating profit (EBIT)** | **15.0** |
 
-The cost choice that explains the margin: **Dabur makes most of what it sells, across hundreds of products, in its own plants.** That keeps the gross margin high (48.3% against Marico's 44.5%) but it carries a heavy fixed layer below it: employees at 10.4% of revenue and depreciation at 3.6%, against 6.7% and 1.5% at Marico. More than half of the gross margin goes on employees, other expenses and depreciation, much of which does not fall when volume does. That is why a strong gross margin becomes only a 15% operating margin.
+The cost choice that explains the margin: **Dabur makes most of what it sells, across hundreds of products, in its own plants.** That keeps the gross margin high (48.3% against Marico's 44.5%) but it carries a heavy fixed layer below it: employees at 10.4% of revenue and depreciation at 3.6%, against 6.7% and 1.5% at Marico. More than half of the gross margin goes on employees, other expenses and depreciation. I would expect much of that to fall more slowly than volume if sales dipped, though the statements do not split fixed from variable costs. That is why a strong gross margin becomes only a 15% operating margin.
 
 ## 3. Whether its profit becomes cash
 
@@ -40,6 +40,7 @@ What Dabur did with ₹6,579 cr of operating cash over three years: paid **₹3,
 
 | | FY24 | FY25 | FY26 |
 |---|---|---|---|
+| Revenue (₹ cr) | 12,404 | 12,563 | 13,193 |
 | Operating margin | 16.1% | 14.9% | 15.0% |
 | Net margin | 14.9% | 14.1% | 14.4% |
 | ROCE: (PBT + finance costs) ÷ capital employed | 21.7% | 20.3% | 20.0% |
@@ -59,13 +60,13 @@ ROE = (1,895 ÷ 13,193) × (13,193 ÷ 17,480) × (17,480 ÷ 11,420) = 0.1436 × 
 
 −6.02 − 4.29 − 0.22 = −10.53. A negative cycle means suppliers fund Dabur's stock and credit, and receivables did most of the work this year. Payable days are on COGS, but payables also include bills for advertising and services, so this flatters the payables side somewhat; the same bias applies to Marico.
 
-**The ratio that misleads: ROCE.** Dabur's ROCE of 20% looks ordinary, but **₹9,489 cr, 54% of its total assets, is cash and investments**, and they earn interest, not operating profit. Other income was **24.8% of profit before tax** in FY26. Take that treasury out of capital employed and the operating business earns roughly 59% on what is left (₹1,983 cr EBIT on ₹3,377 cr). That figure is sensitive to how much Dabur borrows and parks, so I treat it as an illustration, not a precise number. The headline ROCE is not wrong. It describes a mix of a very profitable consumer business and a large treasury earning bank-like returns.
+**The ratio that misleads: ROCE.** Dabur's ROCE of 20% looks ordinary, but **₹9,489 cr, 54% of its total assets, is cash and investments**, and they earn interest, not operating profit. Other income was **24.8% of profit before tax** in FY26. If I take cash, bank balances and investments out of capital employed (₹12,865 cr − ₹9,489 cr = ₹3,377 cr), the operating business earns roughly 59% on what is left (₹1,983 cr operating profit ÷ ₹3,377 cr). That figure is sensitive to how much Dabur borrows and parks, so I treat it as an illustration, not a precise number. The headline ROCE is not wrong. It describes a mix of a very profitable consumer business and a large treasury earning bank-like returns.
 
 ## 5. Growth or profitability
 
 Dabur is choosing profitability and safety, and the evidence says the profitability is slipping. Operating margin has fallen from **18.4% in FY22 to 16.1% in FY23 and FY24, 14.9% in FY25 and 15.0% in FY26**, while revenue grew only **4.9% a year** (FY22 from Screener aggregates; FY23 to FY26 from the audited statements). Gross margin held at about 48%, so the slide is in the costs below gross profit, not in pricing.
 
-What it is choosing not to spend on: advertising is **6.7% of revenue** (Marico 9.6%), capex fell from ₹570 cr to ₹420 cr in FY26, and it paid out **77% of FY26 profit as dividends** while still adding to a ₹9,489 cr investment book. Dabur is not burning cash; it is holding cash it has not found a use for.
+What it is choosing not to spend on: advertising is **6.7% of revenue** (Marico 9.6%), capex fell from ₹570 cr to ₹420 cr in FY26, and it declared **₹1,463 cr of dividends for FY26, 77% of owners' profit** (FY26 investor presentation), while still adding to a ₹9,489 cr investment book. Dabur is not burning cash; it is holding cash it has not found a use for.
 
 ## 6. How it is funded, and who carries the risk
 
