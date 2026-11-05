@@ -76,12 +76,31 @@ for co, ys in scr.items():
             R[(co, yr, k)] = float(v)
             rows.append([co, k, v, "Rs cr", yr, SRC_SCR[0] + " | " + SRC_SCR[1], "Consolidated annual P&L and cash flow tables", "Website aggregate", "Reported (website)"])
 
+
+# Presentation and segment figures used in text
+SRC_DIP = ("Dabur Q4 FY26 investor presentation", "https://www.dabur.com/Investors/Financial%20Information/Results/2025-26/Q4/Investor%20Communication.pdf")
+for co, yr, k, v, src, loc in [
+    (D, "Q4 FY26", "international_revenue_q4", 834.0, SRC_DIP, "Business performance slide, International"),
+    (D, "FY26", "dividend_declared", 1463.3, SRC_DIP, "Financial highlights, total dividend"),
+    (M, "FY26", "parachute_share_india_pct", 36.0, SRC_MIP, "India portfolio slide"),
+    (M, "FY26", "vaho_share_india_pct", 18.0, SRC_MIP, "India portfolio slide"),
+    (M, "FY26", "saffola_oils_share_india_pct", 17.0, SRC_MIP, "India portfolio slide"),
+    (M, "FY26", "india_volume_growth_pct", 8.0, SRC_MIP, "Performance highlights"),
+    (M, "FY26", "india_revenue_growth_pct", 28.0, SRC_MIP, "Performance highlights"),
+    (M, "FY26", "international_ccg_pct", 20.0, SRC_MIP, "Performance highlights"),
+    (M, "FY26", "material_cost_pct_rev", 55.5, SRC_MIP, "P&L summary slide"),
+    (M, "FY25", "material_cost_pct_rev", 49.7, SRC_MIP, "P&L summary slide"),
+    (M, "FY26", "bangladesh_share_intl_pct", 45.0, SRC_MIP, "International slide"),
+]:
+    R[(co, yr, k)] = v
+    rows.append([co, k, v, "Rs cr" if "pct" not in k else "%", yr, src[0] + " | " + src[1], loc, "As reported", "Reported"])
+
 # ---------- Calculations ----------
 def g(co, yr, k): return R[(co, yr, k)]
 calc = []
 def c(co, yr, key, val, defn, unit="ratio"):
     R[(co, yr, key)] = val
-    calc.append([co, key, round(val, 4) if unit != "Rs cr" else round(val, 2), unit, yr, "Calculated from reported rows", "data/numbers.csv", defn, "Calculated"])
+    calc.append([co, key, round(val, 6) if unit != "Rs cr" else round(val, 2), unit, yr, "Calculated from reported rows", "data/numbers.csv", defn, "Calculated"])
 
 for co, yrs in ((D, ("FY24", "FY25", "FY26")), (M, ("FY25", "FY26"))):
     for y in yrs:

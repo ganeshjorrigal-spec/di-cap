@@ -310,161 +310,172 @@ Marico,scr_da,158,Rs cr,FY24,Screener.in consolidated (aggregated; website figur
 Marico,scr_pbt,1937,Rs cr,FY24,Screener.in consolidated (aggregated; website figure) | https://www.screener.in/,Consolidated annual P&L and cash flow tables,Website aggregate,Reported (website)
 Marico,scr_np,1502,Rs cr,FY24,Screener.in consolidated (aggregated; website figure) | https://www.screener.in/,Consolidated annual P&L and cash flow tables,Website aggregate,Reported (website)
 Marico,scr_cfo,1387,Rs cr,FY24,Screener.in consolidated (aggregated; website figure) | https://www.screener.in/,Consolidated annual P&L and cash flow tables,Website aggregate,Reported (website)
+Dabur,international_revenue_q4,834.0,Rs cr,Q4 FY26,Dabur Q4 FY26 investor presentation | https://www.dabur.com/Investors/Financial%20Information/Results/2025-26/Q4/Investor%20Communication.pdf,"Business performance slide, International",As reported,Reported
+Dabur,dividend_declared,1463.3,Rs cr,FY26,Dabur Q4 FY26 investor presentation | https://www.dabur.com/Investors/Financial%20Information/Results/2025-26/Q4/Investor%20Communication.pdf,"Financial highlights, total dividend",As reported,Reported
+Marico,parachute_share_india_pct,36.0,%,FY26,Marico Q4 FY26 investor presentation | https://files.tijorifinance.com/india/company/3891/2420/IP-Apr26.pdf,India portfolio slide,As reported,Reported
+Marico,vaho_share_india_pct,18.0,%,FY26,Marico Q4 FY26 investor presentation | https://files.tijorifinance.com/india/company/3891/2420/IP-Apr26.pdf,India portfolio slide,As reported,Reported
+Marico,saffola_oils_share_india_pct,17.0,%,FY26,Marico Q4 FY26 investor presentation | https://files.tijorifinance.com/india/company/3891/2420/IP-Apr26.pdf,India portfolio slide,As reported,Reported
+Marico,india_volume_growth_pct,8.0,%,FY26,Marico Q4 FY26 investor presentation | https://files.tijorifinance.com/india/company/3891/2420/IP-Apr26.pdf,Performance highlights,As reported,Reported
+Marico,india_revenue_growth_pct,28.0,%,FY26,Marico Q4 FY26 investor presentation | https://files.tijorifinance.com/india/company/3891/2420/IP-Apr26.pdf,Performance highlights,As reported,Reported
+Marico,international_ccg_pct,20.0,%,FY26,Marico Q4 FY26 investor presentation | https://files.tijorifinance.com/india/company/3891/2420/IP-Apr26.pdf,Performance highlights,As reported,Reported
+Marico,material_cost_pct_rev,55.5,%,FY26,Marico Q4 FY26 investor presentation | https://files.tijorifinance.com/india/company/3891/2420/IP-Apr26.pdf,P&L summary slide,As reported,Reported
+Marico,material_cost_pct_rev,49.7,%,FY25,Marico Q4 FY26 investor presentation | https://files.tijorifinance.com/india/company/3891/2420/IP-Apr26.pdf,P&L summary slide,As reported,Reported
+Marico,bangladesh_share_intl_pct,45.0,%,FY26,Marico Q4 FY26 investor presentation | https://files.tijorifinance.com/india/company/3891/2420/IP-Apr26.pdf,International slide,As reported,Reported
 Dabur,cogs_built,6446.96,Rs cr,FY24,Calculated from reported rows,data/numbers.csv,Materials consumed + purchases of stock-in-trade + change in inventories,Calculated
-Dabur,gross_margin,0.4803,ratio,FY24,Calculated from reported rows,data/numbers.csv,(Revenue from operations - built COGS) / revenue,Calculated
+Dabur,gross_margin,0.480252,ratio,FY24,Calculated from reported rows,data/numbers.csv,(Revenue from operations - built COGS) / revenue,Calculated
 Dabur,ebit_operating,2000.51,Rs cr,FY24,Calculated from reported rows,data/numbers.csv,PBT before exceptional items - other income + finance costs,Calculated
-Dabur,operating_margin,0.1613,ratio,FY24,Calculated from reported rows,data/numbers.csv,Operating EBIT / revenue from operations,Calculated
-Dabur,net_margin,0.1486,ratio,FY24,Calculated from reported rows,data/numbers.csv,Profit attributable to owners / revenue from operations,Calculated
-Dabur,roe,0.1868,ratio,FY24,Calculated from reported rows,data/numbers.csv,Profit attributable to owners / closing equity attributable to owners,Calculated
-Dabur,asset_turnover,0.8202,ratio,FY24,Calculated from reported rows,data/numbers.csv,Revenue / closing total assets,Calculated
-Dabur,equity_multiplier,1.5328,ratio,FY24,Calculated from reported rows,data/numbers.csv,Closing total assets / closing owners' equity,Calculated
-Dabur,dupont_product,0.1868,ratio,FY24,Calculated from reported rows,data/numbers.csv,Net margin x asset turnover x equity multiplier (must equal ROE),Calculated
+Dabur,operating_margin,0.161279,ratio,FY24,Calculated from reported rows,data/numbers.csv,Operating EBIT / revenue from operations,Calculated
+Dabur,net_margin,0.148555,ratio,FY24,Calculated from reported rows,data/numbers.csv,Profit attributable to owners / revenue from operations,Calculated
+Dabur,roe,0.186765,ratio,FY24,Calculated from reported rows,data/numbers.csv,Profit attributable to owners / closing equity attributable to owners,Calculated
+Dabur,asset_turnover,0.820226,ratio,FY24,Calculated from reported rows,data/numbers.csv,Revenue / closing total assets,Calculated
+Dabur,equity_multiplier,1.532761,ratio,FY24,Calculated from reported rows,data/numbers.csv,Closing total assets / closing owners' equity,Calculated
+Dabur,dupont_product,0.186765,ratio,FY24,Calculated from reported rows,data/numbers.csv,Net margin x asset turnover x equity multiplier (must equal ROE),Calculated
 Dabur,borrowings,1158.07,Rs cr,FY24,Calculated from reported rows,data/numbers.csv,Current + non-current borrowings (excludes lease liabilities),Calculated
-Dabur,debt_to_equity,0.1174,ratio,FY24,Calculated from reported rows,data/numbers.csv,Borrowings / closing owners' equity,Calculated
+Dabur,debt_to_equity,0.117376,ratio,FY24,Calculated from reported rows,data/numbers.csv,Borrowings / closing owners' equity,Calculated
 Dabur,cash_and_investments,7591.72,Rs cr,FY24,Calculated from reported rows,data/numbers.csv,Cash + other bank balances + current investments + non-current investments,Calculated
 Dabur,net_cash,6433.65,Rs cr,FY24,Calculated from reported rows,data/numbers.csv,Cash and investments - borrowings (positive = net cash),Calculated
 Dabur,lease_liabilities,207.02,Rs cr,FY24,Calculated from reported rows,data/numbers.csv,Current + non-current lease liabilities,Calculated
-Dabur,debt_incl_leases_to_equity,0.1384,ratio,FY24,Calculated from reported rows,data/numbers.csv,(Borrowings + lease liabilities) / owners' equity,Calculated
-Dabur,roce_incl_leases,0.2128,ratio,FY24,Calculated from reported rows,data/numbers.csv,(PBT + finance costs) / (total equity + borrowings + leases),Calculated
+Dabur,debt_incl_leases_to_equity,0.138359,ratio,FY24,Calculated from reported rows,data/numbers.csv,(Borrowings + lease liabilities) / owners' equity,Calculated
+Dabur,roce_incl_leases,0.212794,ratio,FY24,Calculated from reported rows,data/numbers.csv,(PBT + finance costs) / (total equity + borrowings + leases),Calculated
 Dabur,capital_employed,11461.15,Rs cr,FY24,Calculated from reported rows,data/numbers.csv,Total equity (incl. NCI) + borrowings,Calculated
-Dabur,roce,0.2166,ratio,FY24,Calculated from reported rows,data/numbers.csv,(PBT + finance costs) / capital employed,Calculated
-Dabur,roce_operating_ex_treasury,0.517,ratio,FY24,Calculated from reported rows,data/numbers.csv,Operating EBIT / (capital employed - cash and investments),Calculated
-Dabur,interest_cover,16.1098,ratio,FY24,Calculated from reported rows,data/numbers.csv,Operating EBIT / finance costs,Calculated
-Dabur,other_income_share_pbt,0.2045,ratio,FY24,Calculated from reported rows,data/numbers.csv,Other income / PBT,Calculated
-Dabur,receivable_days,26.4457,days,FY24,Calculated from reported rows,data/numbers.csv,Closing trade receivables / revenue x 365,Calculated
-Dabur,inventory_days,110.2293,days,FY24,Calculated from reported rows,data/numbers.csv,Closing inventories / built COGS x 365,Calculated
-Dabur,payable_days,137.1071,days,FY24,Calculated from reported rows,data/numbers.csv,Closing trade payables / built COGS x 365,Calculated
-Dabur,ccc,-0.4321,days,FY24,Calculated from reported rows,data/numbers.csv,Receivable days + inventory days - payable days,Calculated
+Dabur,roce,0.216638,ratio,FY24,Calculated from reported rows,data/numbers.csv,(PBT + finance costs) / capital employed,Calculated
+Dabur,roce_operating_ex_treasury,0.517004,ratio,FY24,Calculated from reported rows,data/numbers.csv,Operating EBIT / (capital employed - cash and investments),Calculated
+Dabur,interest_cover,16.10976,ratio,FY24,Calculated from reported rows,data/numbers.csv,Operating EBIT / finance costs,Calculated
+Dabur,other_income_share_pbt,0.20452,ratio,FY24,Calculated from reported rows,data/numbers.csv,Other income / PBT,Calculated
+Dabur,receivable_days,26.445706,days,FY24,Calculated from reported rows,data/numbers.csv,Closing trade receivables / revenue x 365,Calculated
+Dabur,inventory_days,110.229325,days,FY24,Calculated from reported rows,data/numbers.csv,Closing inventories / built COGS x 365,Calculated
+Dabur,payable_days,137.107125,days,FY24,Calculated from reported rows,data/numbers.csv,Closing trade payables / built COGS x 365,Calculated
+Dabur,ccc,-0.432094,days,FY24,Calculated from reported rows,data/numbers.csv,Receivable days + inventory days - payable days,Calculated
 Dabur,cfo_minus_pat,202.16,Rs cr,FY24,Calculated from reported rows,data/numbers.csv,Cash from operations - group profit for the year (incl. NCI),Calculated
-Dabur,cfo_to_pat,1.1116,ratio,FY24,Calculated from reported rows,data/numbers.csv,Cash from operations / group profit for the year,Calculated
-Dabur,employee_to_sales,0.0999,ratio,FY24,Calculated from reported rows,data/numbers.csv,Employee benefits / revenue,Calculated
-Dabur,da_to_sales,0.0322,ratio,FY24,Calculated from reported rows,data/numbers.csv,Depreciation and amortisation / revenue,Calculated
+Dabur,cfo_to_pat,1.11161,ratio,FY24,Calculated from reported rows,data/numbers.csv,Cash from operations / group profit for the year,Calculated
+Dabur,employee_to_sales,0.099932,ratio,FY24,Calculated from reported rows,data/numbers.csv,Employee benefits / revenue,Calculated
+Dabur,da_to_sales,0.032184,ratio,FY24,Calculated from reported rows,data/numbers.csv,Depreciation and amortisation / revenue,Calculated
 Dabur,cogs_built,6534.86,Rs cr,FY25,Calculated from reported rows,data/numbers.csv,Materials consumed + purchases of stock-in-trade + change in inventories,Calculated
-Dabur,gross_margin,0.4798,ratio,FY25,Calculated from reported rows,data/numbers.csv,(Revenue from operations - built COGS) / revenue,Calculated
+Dabur,gross_margin,0.479837,ratio,FY25,Calculated from reported rows,data/numbers.csv,(Revenue from operations - built COGS) / revenue,Calculated
 Dabur,ebit_operating,1870.74,Rs cr,FY25,Calculated from reported rows,data/numbers.csv,PBT before exceptional items - other income + finance costs,Calculated
-Dabur,operating_margin,0.1489,ratio,FY25,Calculated from reported rows,data/numbers.csv,Operating EBIT / revenue from operations,Calculated
+Dabur,operating_margin,0.148908,ratio,FY25,Calculated from reported rows,data/numbers.csv,Operating EBIT / revenue from operations,Calculated
 Dabur,net_margin,0.1407,ratio,FY25,Calculated from reported rows,data/numbers.csv,Profit attributable to owners / revenue from operations,Calculated
-Dabur,roe,0.1637,ratio,FY25,Calculated from reported rows,data/numbers.csv,Profit attributable to owners / closing equity attributable to owners,Calculated
-Dabur,asset_turnover,0.774,ratio,FY25,Calculated from reported rows,data/numbers.csv,Revenue / closing total assets,Calculated
-Dabur,equity_multiplier,1.5029,ratio,FY25,Calculated from reported rows,data/numbers.csv,Closing total assets / closing owners' equity,Calculated
-Dabur,dupont_product,0.1637,ratio,FY25,Calculated from reported rows,data/numbers.csv,Net margin x asset turnover x equity multiplier (must equal ROE),Calculated
+Dabur,roe,0.163659,ratio,FY25,Calculated from reported rows,data/numbers.csv,Profit attributable to owners / closing equity attributable to owners,Calculated
+Dabur,asset_turnover,0.773957,ratio,FY25,Calculated from reported rows,data/numbers.csv,Revenue / closing total assets,Calculated
+Dabur,equity_multiplier,1.502893,ratio,FY25,Calculated from reported rows,data/numbers.csv,Closing total assets / closing owners' equity,Calculated
+Dabur,dupont_product,0.163659,ratio,FY25,Calculated from reported rows,data/numbers.csv,Net margin x asset turnover x equity multiplier (must equal ROE),Calculated
 Dabur,borrowings,730.12,Rs cr,FY25,Calculated from reported rows,data/numbers.csv,Current + non-current borrowings (excludes lease liabilities),Calculated
-Dabur,debt_to_equity,0.0676,ratio,FY25,Calculated from reported rows,data/numbers.csv,Borrowings / closing owners' equity,Calculated
+Dabur,debt_to_equity,0.067599,ratio,FY25,Calculated from reported rows,data/numbers.csv,Borrowings / closing owners' equity,Calculated
 Dabur,cash_and_investments,8037.99,Rs cr,FY25,Calculated from reported rows,data/numbers.csv,Cash + other bank balances + current investments + non-current investments,Calculated
 Dabur,net_cash,7307.87,Rs cr,FY25,Calculated from reported rows,data/numbers.csv,Cash and investments - borrowings (positive = net cash),Calculated
 Dabur,capital_employed,11940.38,Rs cr,FY25,Calculated from reported rows,data/numbers.csv,Total equity (incl. NCI) + borrowings,Calculated
-Dabur,roce,0.2027,ratio,FY25,Calculated from reported rows,data/numbers.csv,(PBT + finance costs) / capital employed,Calculated
-Dabur,roce_operating_ex_treasury,0.4794,ratio,FY25,Calculated from reported rows,data/numbers.csv,Operating EBIT / (capital employed - cash and investments),Calculated
-Dabur,interest_cover,11.4418,ratio,FY25,Calculated from reported rows,data/numbers.csv,Operating EBIT / finance costs,Calculated
-Dabur,other_income_share_pbt,0.2437,ratio,FY25,Calculated from reported rows,data/numbers.csv,Other income / PBT,Calculated
-Dabur,receivable_days,25.8139,days,FY25,Calculated from reported rows,data/numbers.csv,Closing trade receivables / revenue x 365,Calculated
-Dabur,inventory_days,128.471,days,FY25,Calculated from reported rows,data/numbers.csv,Closing inventories / built COGS x 365,Calculated
-Dabur,payable_days,157.8074,days,FY25,Calculated from reported rows,data/numbers.csv,Closing trade payables / built COGS x 365,Calculated
-Dabur,ccc,-3.5224,days,FY25,Calculated from reported rows,data/numbers.csv,Receivable days + inventory days - payable days,Calculated
+Dabur,roce,0.202744,ratio,FY25,Calculated from reported rows,data/numbers.csv,(PBT + finance costs) / capital employed,Calculated
+Dabur,roce_operating_ex_treasury,0.479383,ratio,FY25,Calculated from reported rows,data/numbers.csv,Operating EBIT / (capital employed - cash and investments),Calculated
+Dabur,interest_cover,11.441835,ratio,FY25,Calculated from reported rows,data/numbers.csv,Operating EBIT / finance costs,Calculated
+Dabur,other_income_share_pbt,0.243694,ratio,FY25,Calculated from reported rows,data/numbers.csv,Other income / PBT,Calculated
+Dabur,receivable_days,25.813912,days,FY25,Calculated from reported rows,data/numbers.csv,Closing trade receivables / revenue x 365,Calculated
+Dabur,inventory_days,128.471023,days,FY25,Calculated from reported rows,data/numbers.csv,Closing inventories / built COGS x 365,Calculated
+Dabur,payable_days,157.807375,days,FY25,Calculated from reported rows,data/numbers.csv,Closing trade payables / built COGS x 365,Calculated
+Dabur,ccc,-3.522439,days,FY25,Calculated from reported rows,data/numbers.csv,Receivable days + inventory days - payable days,Calculated
 Dabur,cfo_minus_pat,246.33,Rs cr,FY25,Calculated from reported rows,data/numbers.csv,Cash from operations - group profit for the year (incl. NCI),Calculated
-Dabur,cfo_to_pat,1.1415,ratio,FY25,Calculated from reported rows,data/numbers.csv,Cash from operations / group profit for the year,Calculated
-Dabur,ad_to_sales,0.0688,ratio,FY25,Calculated from reported rows,data/numbers.csv,Advertisement / revenue,Calculated
-Dabur,employee_to_sales,0.1028,ratio,FY25,Calculated from reported rows,data/numbers.csv,Employee benefits / revenue,Calculated
-Dabur,da_to_sales,0.0355,ratio,FY25,Calculated from reported rows,data/numbers.csv,Depreciation and amortisation / revenue,Calculated
+Dabur,cfo_to_pat,1.141535,ratio,FY25,Calculated from reported rows,data/numbers.csv,Cash from operations / group profit for the year,Calculated
+Dabur,ad_to_sales,0.068824,ratio,FY25,Calculated from reported rows,data/numbers.csv,Advertisement / revenue,Calculated
+Dabur,employee_to_sales,0.10278,ratio,FY25,Calculated from reported rows,data/numbers.csv,Employee benefits / revenue,Calculated
+Dabur,da_to_sales,0.035469,ratio,FY25,Calculated from reported rows,data/numbers.csv,Depreciation and amortisation / revenue,Calculated
 Dabur,cogs_built,6823.77,Rs cr,FY26,Calculated from reported rows,data/numbers.csv,Materials consumed + purchases of stock-in-trade + change in inventories,Calculated
-Dabur,gross_margin,0.4828,ratio,FY26,Calculated from reported rows,data/numbers.csv,(Revenue from operations - built COGS) / revenue,Calculated
+Dabur,gross_margin,0.482757,ratio,FY26,Calculated from reported rows,data/numbers.csv,(Revenue from operations - built COGS) / revenue,Calculated
 Dabur,ebit_operating,1982.91,Rs cr,FY26,Calculated from reported rows,data/numbers.csv,PBT before exceptional items - other income + finance costs,Calculated
-Dabur,operating_margin,0.1503,ratio,FY26,Calculated from reported rows,data/numbers.csv,Operating EBIT / revenue from operations,Calculated
-Dabur,net_margin,0.1436,ratio,FY26,Calculated from reported rows,data/numbers.csv,Profit attributable to owners / revenue from operations,Calculated
-Dabur,roe,0.1659,ratio,FY26,Calculated from reported rows,data/numbers.csv,Profit attributable to owners / closing equity attributable to owners,Calculated
-Dabur,asset_turnover,0.7547,ratio,FY26,Calculated from reported rows,data/numbers.csv,Revenue / closing total assets,Calculated
-Dabur,equity_multiplier,1.5307,ratio,FY26,Calculated from reported rows,data/numbers.csv,Closing total assets / closing owners' equity,Calculated
-Dabur,dupont_product,0.1659,ratio,FY26,Calculated from reported rows,data/numbers.csv,Net margin x asset turnover x equity multiplier (must equal ROE),Calculated
+Dabur,operating_margin,0.150305,ratio,FY26,Calculated from reported rows,data/numbers.csv,Operating EBIT / revenue from operations,Calculated
+Dabur,net_margin,0.143644,ratio,FY26,Calculated from reported rows,data/numbers.csv,Profit attributable to owners / revenue from operations,Calculated
+Dabur,roe,0.165947,ratio,FY26,Calculated from reported rows,data/numbers.csv,Profit attributable to owners / closing equity attributable to owners,Calculated
+Dabur,asset_turnover,0.754728,ratio,FY26,Calculated from reported rows,data/numbers.csv,Revenue / closing total assets,Calculated
+Dabur,equity_multiplier,1.530704,ratio,FY26,Calculated from reported rows,data/numbers.csv,Closing total assets / closing owners' equity,Calculated
+Dabur,dupont_product,0.165947,ratio,FY26,Calculated from reported rows,data/numbers.csv,Net margin x asset turnover x equity multiplier (must equal ROE),Calculated
 Dabur,borrowings,1062.68,Rs cr,FY26,Calculated from reported rows,data/numbers.csv,Current + non-current borrowings (excludes lease liabilities),Calculated
-Dabur,debt_to_equity,0.0931,ratio,FY26,Calculated from reported rows,data/numbers.csv,Borrowings / closing owners' equity,Calculated
+Dabur,debt_to_equity,0.093058,ratio,FY26,Calculated from reported rows,data/numbers.csv,Borrowings / closing owners' equity,Calculated
 Dabur,cash_and_investments,9488.7,Rs cr,FY26,Calculated from reported rows,data/numbers.csv,Cash + other bank balances + current investments + non-current investments,Calculated
 Dabur,net_cash,8426.02,Rs cr,FY26,Calculated from reported rows,data/numbers.csv,Cash and investments - borrowings (positive = net cash),Calculated
 Dabur,lease_liabilities,224.64,Rs cr,FY26,Calculated from reported rows,data/numbers.csv,Current + non-current lease liabilities,Calculated
-Dabur,debt_incl_leases_to_equity,0.1127,ratio,FY26,Calculated from reported rows,data/numbers.csv,(Borrowings + lease liabilities) / owners' equity,Calculated
-Dabur,roce_incl_leases,0.1962,ratio,FY26,Calculated from reported rows,data/numbers.csv,(PBT + finance costs) / (total equity + borrowings + leases),Calculated
+Dabur,debt_incl_leases_to_equity,0.11273,ratio,FY26,Calculated from reported rows,data/numbers.csv,(Borrowings + lease liabilities) / owners' equity,Calculated
+Dabur,roce_incl_leases,0.196151,ratio,FY26,Calculated from reported rows,data/numbers.csv,(PBT + finance costs) / (total equity + borrowings + leases),Calculated
 Dabur,capital_employed,12865.43,Rs cr,FY26,Calculated from reported rows,data/numbers.csv,Total equity (incl. NCI) + borrowings,Calculated
-Dabur,roce,0.1996,ratio,FY26,Calculated from reported rows,data/numbers.csv,(PBT + finance costs) / capital employed,Calculated
-Dabur,roce_operating_ex_treasury,0.5872,ratio,FY26,Calculated from reported rows,data/numbers.csv,Operating EBIT / (capital employed - cash and investments),Calculated
-Dabur,interest_cover,13.6376,ratio,FY26,Calculated from reported rows,data/numbers.csv,Operating EBIT / finance costs,Calculated
-Dabur,other_income_share_pbt,0.2476,ratio,FY26,Calculated from reported rows,data/numbers.csv,Other income / PBT,Calculated
-Dabur,receivable_days,19.7933,days,FY26,Calculated from reported rows,data/numbers.csv,Closing trade receivables / revenue x 365,Calculated
-Dabur,inventory_days,124.1828,days,FY26,Calculated from reported rows,data/numbers.csv,Closing inventories / built COGS x 365,Calculated
-Dabur,payable_days,158.0261,days,FY26,Calculated from reported rows,data/numbers.csv,Closing trade payables / built COGS x 365,Calculated
-Dabur,ccc,-14.05,days,FY26,Calculated from reported rows,data/numbers.csv,Receivable days + inventory days - payable days,Calculated
+Dabur,roce,0.199576,ratio,FY26,Calculated from reported rows,data/numbers.csv,(PBT + finance costs) / capital employed,Calculated
+Dabur,roce_operating_ex_treasury,0.587228,ratio,FY26,Calculated from reported rows,data/numbers.csv,Operating EBIT / (capital employed - cash and investments),Calculated
+Dabur,interest_cover,13.63762,ratio,FY26,Calculated from reported rows,data/numbers.csv,Operating EBIT / finance costs,Calculated
+Dabur,other_income_share_pbt,0.247611,ratio,FY26,Calculated from reported rows,data/numbers.csv,Other income / PBT,Calculated
+Dabur,receivable_days,19.793312,days,FY26,Calculated from reported rows,data/numbers.csv,Closing trade receivables / revenue x 365,Calculated
+Dabur,inventory_days,124.182812,days,FY26,Calculated from reported rows,data/numbers.csv,Closing inventories / built COGS x 365,Calculated
+Dabur,payable_days,158.02615,days,FY26,Calculated from reported rows,data/numbers.csv,Closing trade payables / built COGS x 365,Calculated
+Dabur,ccc,-14.050026,days,FY26,Calculated from reported rows,data/numbers.csv,Receivable days + inventory days - payable days,Calculated
 Dabur,cfo_minus_pat,709.93,Rs cr,FY26,Calculated from reported rows,data/numbers.csv,Cash from operations - group profit for the year (incl. NCI),Calculated
-Dabur,cfo_to_pat,1.3799,ratio,FY26,Calculated from reported rows,data/numbers.csv,Cash from operations / group profit for the year,Calculated
-Dabur,ad_to_sales,0.0673,ratio,FY26,Calculated from reported rows,data/numbers.csv,Advertisement / revenue,Calculated
-Dabur,employee_to_sales,0.1043,ratio,FY26,Calculated from reported rows,data/numbers.csv,Employee benefits / revenue,Calculated
-Dabur,da_to_sales,0.0355,ratio,FY26,Calculated from reported rows,data/numbers.csv,Depreciation and amortisation / revenue,Calculated
+Dabur,cfo_to_pat,1.379908,ratio,FY26,Calculated from reported rows,data/numbers.csv,Cash from operations / group profit for the year,Calculated
+Dabur,ad_to_sales,0.067315,ratio,FY26,Calculated from reported rows,data/numbers.csv,Advertisement / revenue,Calculated
+Dabur,employee_to_sales,0.104274,ratio,FY26,Calculated from reported rows,data/numbers.csv,Employee benefits / revenue,Calculated
+Dabur,da_to_sales,0.035545,ratio,FY26,Calculated from reported rows,data/numbers.csv,Depreciation and amortisation / revenue,Calculated
 Marico,cogs_built,5388.0,Rs cr,FY25,Calculated from reported rows,data/numbers.csv,Materials consumed + purchases of stock-in-trade + change in inventories,Calculated
-Marico,gross_margin,0.5025,ratio,FY25,Calculated from reported rows,data/numbers.csv,(Revenue from operations - built COGS) / revenue,Calculated
+Marico,gross_margin,0.502539,ratio,FY25,Calculated from reported rows,data/numbers.csv,(Revenue from operations - built COGS) / revenue,Calculated
 Marico,ebit_operating,1961.0,Rs cr,FY25,Calculated from reported rows,data/numbers.csv,PBT before exceptional items - other income + finance costs,Calculated
-Marico,operating_margin,0.1811,ratio,FY25,Calculated from reported rows,data/numbers.csv,Operating EBIT / revenue from operations,Calculated
-Marico,net_margin,0.1504,ratio,FY25,Calculated from reported rows,data/numbers.csv,Profit attributable to owners / revenue from operations,Calculated
-Marico,roe,0.4098,ratio,FY25,Calculated from reported rows,data/numbers.csv,Profit attributable to owners / closing equity attributable to owners,Calculated
-Marico,asset_turnover,1.2999,ratio,FY25,Calculated from reported rows,data/numbers.csv,Revenue / closing total assets,Calculated
-Marico,equity_multiplier,2.0961,ratio,FY25,Calculated from reported rows,data/numbers.csv,Closing total assets / closing owners' equity,Calculated
-Marico,dupont_product,0.4098,ratio,FY25,Calculated from reported rows,data/numbers.csv,Net margin x asset turnover x equity multiplier (must equal ROE),Calculated
+Marico,operating_margin,0.181054,ratio,FY25,Calculated from reported rows,data/numbers.csv,Operating EBIT / revenue from operations,Calculated
+Marico,net_margin,0.150402,ratio,FY25,Calculated from reported rows,data/numbers.csv,Profit attributable to owners / revenue from operations,Calculated
+Marico,roe,0.409811,ratio,FY25,Calculated from reported rows,data/numbers.csv,Profit attributable to owners / closing equity attributable to owners,Calculated
+Marico,asset_turnover,1.299928,ratio,FY25,Calculated from reported rows,data/numbers.csv,Revenue / closing total assets,Calculated
+Marico,equity_multiplier,2.096101,ratio,FY25,Calculated from reported rows,data/numbers.csv,Closing total assets / closing owners' equity,Calculated
+Marico,dupont_product,0.409811,ratio,FY25,Calculated from reported rows,data/numbers.csv,Net margin x asset turnover x equity multiplier (must equal ROE),Calculated
 Marico,borrowings,379.0,Rs cr,FY25,Calculated from reported rows,data/numbers.csv,Current + non-current borrowings (excludes lease liabilities),Calculated
-Marico,debt_to_equity,0.0953,ratio,FY25,Calculated from reported rows,data/numbers.csv,Borrowings / closing owners' equity,Calculated
+Marico,debt_to_equity,0.095346,ratio,FY25,Calculated from reported rows,data/numbers.csv,Borrowings / closing owners' equity,Calculated
 Marico,cash_and_investments,2367.0,Rs cr,FY25,Calculated from reported rows,data/numbers.csv,Cash + other bank balances + current investments + non-current investments,Calculated
 Marico,net_cash,1988.0,Rs cr,FY25,Calculated from reported rows,data/numbers.csv,Cash and investments - borrowings (positive = net cash),Calculated
 Marico,lease_liabilities,175.0,Rs cr,FY25,Calculated from reported rows,data/numbers.csv,Current + non-current lease liabilities,Calculated
-Marico,debt_incl_leases_to_equity,0.1394,ratio,FY25,Calculated from reported rows,data/numbers.csv,(Borrowings + lease liabilities) / owners' equity,Calculated
+Marico,debt_incl_leases_to_equity,0.139371,ratio,FY25,Calculated from reported rows,data/numbers.csv,(Borrowings + lease liabilities) / owners' equity,Calculated
 Marico,roce_incl_leases,0.45,ratio,FY25,Calculated from reported rows,data/numbers.csv,(PBT + finance costs) / (total equity + borrowings + leases),Calculated
 Marico,capital_employed,4645.0,Rs cr,FY25,Calculated from reported rows,data/numbers.csv,Total equity (incl. NCI) + borrowings,Calculated
-Marico,roce,0.467,ratio,FY25,Calculated from reported rows,data/numbers.csv,(PBT + finance costs) / capital employed,Calculated
-Marico,roce_operating_ex_treasury,0.8608,ratio,FY25,Calculated from reported rows,data/numbers.csv,Operating EBIT / (capital employed - cash and investments),Calculated
+Marico,roce,0.466954,ratio,FY25,Calculated from reported rows,data/numbers.csv,(PBT + finance costs) / capital employed,Calculated
+Marico,roce_operating_ex_treasury,0.860843,ratio,FY25,Calculated from reported rows,data/numbers.csv,Operating EBIT / (capital employed - cash and investments),Calculated
 Marico,interest_cover,37.0,ratio,FY25,Calculated from reported rows,data/numbers.csv,Operating EBIT / finance costs,Calculated
-Marico,other_income_share_pbt,0.0983,ratio,FY25,Calculated from reported rows,data/numbers.csv,Other income / PBT,Calculated
-Marico,receivable_days,42.8321,days,FY25,Calculated from reported rows,data/numbers.csv,Closing trade receivables / revenue x 365,Calculated
-Marico,inventory_days,83.6628,days,FY25,Calculated from reported rows,data/numbers.csv,Closing inventories / built COGS x 365,Calculated
-Marico,payable_days,88.4725,days,FY25,Calculated from reported rows,data/numbers.csv,Closing trade payables / built COGS x 365,Calculated
-Marico,ccc,38.0224,days,FY25,Calculated from reported rows,data/numbers.csv,Receivable days + inventory days - payable days,Calculated
+Marico,other_income_share_pbt,0.098299,ratio,FY25,Calculated from reported rows,data/numbers.csv,Other income / PBT,Calculated
+Marico,receivable_days,42.832148,days,FY25,Calculated from reported rows,data/numbers.csv,Closing trade receivables / revenue x 365,Calculated
+Marico,inventory_days,83.662769,days,FY25,Calculated from reported rows,data/numbers.csv,Closing inventories / built COGS x 365,Calculated
+Marico,payable_days,88.472532,days,FY25,Calculated from reported rows,data/numbers.csv,Closing trade payables / built COGS x 365,Calculated
+Marico,ccc,38.022386,days,FY25,Calculated from reported rows,data/numbers.csv,Receivable days + inventory days - payable days,Calculated
 Marico,cfo_minus_pat,-295.0,Rs cr,FY25,Calculated from reported rows,data/numbers.csv,Cash from operations - group profit for the year (incl. NCI),Calculated
-Marico,cfo_to_pat,0.8221,ratio,FY25,Calculated from reported rows,data/numbers.csv,Cash from operations / group profit for the year,Calculated
-Marico,ad_to_sales,0.1041,ratio,FY25,Calculated from reported rows,data/numbers.csv,Advertisement / revenue,Calculated
-Marico,employee_to_sales,0.0767,ratio,FY25,Calculated from reported rows,data/numbers.csv,Employee benefits / revenue,Calculated
-Marico,da_to_sales,0.0164,ratio,FY25,Calculated from reported rows,data/numbers.csv,Depreciation and amortisation / revenue,Calculated
+Marico,cfo_to_pat,0.822075,ratio,FY25,Calculated from reported rows,data/numbers.csv,Cash from operations / group profit for the year,Calculated
+Marico,ad_to_sales,0.104146,ratio,FY25,Calculated from reported rows,data/numbers.csv,Advertisement / revenue,Calculated
+Marico,employee_to_sales,0.076724,ratio,FY25,Calculated from reported rows,data/numbers.csv,Employee benefits / revenue,Calculated
+Marico,da_to_sales,0.016434,ratio,FY25,Calculated from reported rows,data/numbers.csv,Depreciation and amortisation / revenue,Calculated
 Marico,cogs_built,7559.0,Rs cr,FY26,Calculated from reported rows,data/numbers.csv,Materials consumed + purchases of stock-in-trade + change in inventories,Calculated
-Marico,gross_margin,0.4446,ratio,FY26,Calculated from reported rows,data/numbers.csv,(Revenue from operations - built COGS) / revenue,Calculated
+Marico,gross_margin,0.44464,ratio,FY26,Calculated from reported rows,data/numbers.csv,(Revenue from operations - built COGS) / revenue,Calculated
 Marico,ebit_operating,2126.0,Rs cr,FY26,Calculated from reported rows,data/numbers.csv,PBT before exceptional items - other income + finance costs,Calculated
-Marico,operating_margin,0.1562,ratio,FY26,Calculated from reported rows,data/numbers.csv,Operating EBIT / revenue from operations,Calculated
-Marico,net_margin,0.1295,ratio,FY26,Calculated from reported rows,data/numbers.csv,Profit attributable to owners / revenue from operations,Calculated
-Marico,roe,0.4185,ratio,FY26,Calculated from reported rows,data/numbers.csv,Profit attributable to owners / closing equity attributable to owners,Calculated
-Marico,asset_turnover,1.351,ratio,FY26,Calculated from reported rows,data/numbers.csv,Revenue / closing total assets,Calculated
-Marico,equity_multiplier,2.3931,ratio,FY26,Calculated from reported rows,data/numbers.csv,Closing total assets / closing owners' equity,Calculated
-Marico,dupont_product,0.4185,ratio,FY26,Calculated from reported rows,data/numbers.csv,Net margin x asset turnover x equity multiplier (must equal ROE),Calculated
+Marico,operating_margin,0.156197,ratio,FY26,Calculated from reported rows,data/numbers.csv,Operating EBIT / revenue from operations,Calculated
+Marico,net_margin,0.129454,ratio,FY26,Calculated from reported rows,data/numbers.csv,Profit attributable to owners / revenue from operations,Calculated
+Marico,roe,0.418527,ratio,FY26,Calculated from reported rows,data/numbers.csv,Profit attributable to owners / closing equity attributable to owners,Calculated
+Marico,asset_turnover,1.350968,ratio,FY26,Calculated from reported rows,data/numbers.csv,Revenue / closing total assets,Calculated
+Marico,equity_multiplier,2.393112,ratio,FY26,Calculated from reported rows,data/numbers.csv,Closing total assets / closing owners' equity,Calculated
+Marico,dupont_product,0.418527,ratio,FY26,Calculated from reported rows,data/numbers.csv,Net margin x asset turnover x equity multiplier (must equal ROE),Calculated
 Marico,borrowings,355.0,Rs cr,FY26,Calculated from reported rows,data/numbers.csv,Current + non-current borrowings (excludes lease liabilities),Calculated
-Marico,debt_to_equity,0.0843,ratio,FY26,Calculated from reported rows,data/numbers.csv,Borrowings / closing owners' equity,Calculated
+Marico,debt_to_equity,0.084323,ratio,FY26,Calculated from reported rows,data/numbers.csv,Borrowings / closing owners' equity,Calculated
 Marico,cash_and_investments,2576.0,Rs cr,FY26,Calculated from reported rows,data/numbers.csv,Cash + other bank balances + current investments + non-current investments,Calculated
 Marico,net_cash,2221.0,Rs cr,FY26,Calculated from reported rows,data/numbers.csv,Cash and investments - borrowings (positive = net cash),Calculated
 Marico,lease_liabilities,202.0,Rs cr,FY26,Calculated from reported rows,data/numbers.csv,Current + non-current lease liabilities,Calculated
-Marico,debt_incl_leases_to_equity,0.1323,ratio,FY26,Calculated from reported rows,data/numbers.csv,(Borrowings + lease liabilities) / owners' equity,Calculated
-Marico,roce_incl_leases,0.4613,ratio,FY26,Calculated from reported rows,data/numbers.csv,(PBT + finance costs) / (total equity + borrowings + leases),Calculated
+Marico,debt_incl_leases_to_equity,0.132304,ratio,FY26,Calculated from reported rows,data/numbers.csv,(Borrowings + lease liabilities) / owners' equity,Calculated
+Marico,roce_incl_leases,0.461295,ratio,FY26,Calculated from reported rows,data/numbers.csv,(PBT + finance costs) / (total equity + borrowings + leases),Calculated
 Marico,capital_employed,4849.0,Rs cr,FY26,Calculated from reported rows,data/numbers.csv,Total equity (incl. NCI) + borrowings,Calculated
-Marico,roce,0.4805,ratio,FY26,Calculated from reported rows,data/numbers.csv,(PBT + finance costs) / capital employed,Calculated
-Marico,roce_operating_ex_treasury,0.9353,ratio,FY26,Calculated from reported rows,data/numbers.csv,Operating EBIT / (capital employed - cash and investments),Calculated
-Marico,interest_cover,40.1132,ratio,FY26,Calculated from reported rows,data/numbers.csv,Operating EBIT / finance costs,Calculated
-Marico,other_income_share_pbt,0.0896,ratio,FY26,Calculated from reported rows,data/numbers.csv,Other income / PBT,Calculated
-Marico,receivable_days,34.9688,days,FY26,Calculated from reported rows,data/numbers.csv,Closing trade receivables / revenue x 365,Calculated
-Marico,inventory_days,77.7901,days,FY26,Calculated from reported rows,data/numbers.csv,Closing inventories / built COGS x 365,Calculated
-Marico,payable_days,78.9006,days,FY26,Calculated from reported rows,data/numbers.csv,Closing trade payables / built COGS x 365,Calculated
-Marico,ccc,33.8582,days,FY26,Calculated from reported rows,data/numbers.csv,Receivable days + inventory days - payable days,Calculated
+Marico,roce,0.480511,ratio,FY26,Calculated from reported rows,data/numbers.csv,(PBT + finance costs) / capital employed,Calculated
+Marico,roce_operating_ex_treasury,0.935328,ratio,FY26,Calculated from reported rows,data/numbers.csv,Operating EBIT / (capital employed - cash and investments),Calculated
+Marico,interest_cover,40.113208,ratio,FY26,Calculated from reported rows,data/numbers.csv,Operating EBIT / finance costs,Calculated
+Marico,other_income_share_pbt,0.089592,ratio,FY26,Calculated from reported rows,data/numbers.csv,Other income / PBT,Calculated
+Marico,receivable_days,34.968775,days,FY26,Calculated from reported rows,data/numbers.csv,Closing trade receivables / revenue x 365,Calculated
+Marico,inventory_days,77.790052,days,FY26,Calculated from reported rows,data/numbers.csv,Closing inventories / built COGS x 365,Calculated
+Marico,payable_days,78.900648,days,FY26,Calculated from reported rows,data/numbers.csv,Closing trade payables / built COGS x 365,Calculated
+Marico,ccc,33.858179,days,FY26,Calculated from reported rows,data/numbers.csv,Receivable days + inventory days - payable days,Calculated
 Marico,cfo_minus_pat,271.0,Rs cr,FY26,Calculated from reported rows,data/numbers.csv,Cash from operations - group profit for the year (incl. NCI),Calculated
-Marico,cfo_to_pat,1.1495,ratio,FY26,Calculated from reported rows,data/numbers.csv,Cash from operations / group profit for the year,Calculated
-Marico,ad_to_sales,0.0955,ratio,FY26,Calculated from reported rows,data/numbers.csv,Advertisement / revenue,Calculated
-Marico,employee_to_sales,0.0673,ratio,FY26,Calculated from reported rows,data/numbers.csv,Employee benefits / revenue,Calculated
-Marico,da_to_sales,0.0148,ratio,FY26,Calculated from reported rows,data/numbers.csv,Depreciation and amortisation / revenue,Calculated
-Dabur,operating_margin,0.1606,ratio,FY23,Calculated from reported rows,data/numbers.csv,(PBT - other income + finance costs) / revenue,Calculated
-Dabur,operating_margin,0.1837,ratio,FY22,Calculated from reported rows,data/numbers.csv,"(PBT - other income + finance costs) / sales, Screener aggregates",Calculated
-Marico,operating_margin,0.1621,ratio,FY22,Calculated from reported rows,data/numbers.csv,"(PBT - other income + finance costs) / sales, Screener aggregates",Calculated
+Marico,cfo_to_pat,1.149476,ratio,FY26,Calculated from reported rows,data/numbers.csv,Cash from operations / group profit for the year,Calculated
+Marico,ad_to_sales,0.095511,ratio,FY26,Calculated from reported rows,data/numbers.csv,Advertisement / revenue,Calculated
+Marico,employee_to_sales,0.067299,ratio,FY26,Calculated from reported rows,data/numbers.csv,Employee benefits / revenue,Calculated
+Marico,da_to_sales,0.014841,ratio,FY26,Calculated from reported rows,data/numbers.csv,Depreciation and amortisation / revenue,Calculated
+Dabur,operating_margin,0.160585,ratio,FY23,Calculated from reported rows,data/numbers.csv,(PBT - other income + finance costs) / revenue,Calculated
+Dabur,operating_margin,0.183672,ratio,FY22,Calculated from reported rows,data/numbers.csv,"(PBT - other income + finance costs) / sales, Screener aggregates",Calculated
+Marico,operating_margin,0.162111,ratio,FY22,Calculated from reported rows,data/numbers.csv,"(PBT - other income + finance costs) / sales, Screener aggregates",Calculated
 Marico,operating_margin,0.1695,ratio,FY23,Calculated from reported rows,data/numbers.csv,"(PBT - other income + finance costs) / sales, Screener aggregates",Calculated
-Marico,operating_margin,0.1935,ratio,FY24,Calculated from reported rows,data/numbers.csv,"(PBT - other income + finance costs) / sales, Screener aggregates",Calculated
+Marico,operating_margin,0.193515,ratio,FY24,Calculated from reported rows,data/numbers.csv,"(PBT - other income + finance costs) / sales, Screener aggregates",Calculated
 Dabur,ccc_change_check,0.0,days,FY25->FY26,Calculated from reported rows,data/numbers.csv,(dRec -6.02 + dInv -4.29 - dPay 0.22) - dCCC; must be 0,Calculated
 Marico,ccc_change_check,0.0,days,FY25->FY26,Calculated from reported rows,data/numbers.csv,(dRec -7.86 + dInv -5.87 - dPay -9.57) - dCCC; must be 0,Calculated
 Dabur,ccc_change_check,0.0,days,FY24->FY25,Calculated from reported rows,data/numbers.csv,(dRec -0.63 + dInv 18.24 - dPay 20.70) - dCCC; must be 0,Calculated
-Dabur,revenue_cagr,0.0491,ratio,FY22-FY26,Calculated from reported rows,data/numbers.csv,(FY26 revenue / FY22 sales)^(1/4) - 1,Calculated
-Marico,revenue_cagr,0.0937,ratio,FY22-FY26,Calculated from reported rows,data/numbers.csv,(FY26 revenue / FY22 sales)^(1/4) - 1,Calculated
-Dabur,cfo_to_pat_cum,1.2137,ratio,FY24-FY26,Calculated from reported rows,data/numbers.csv,"Sum CFO / sum group profit, 3 years",Calculated
-Marico,cfo_to_pat_cum,0.9931,ratio,FY25-FY26,Calculated from reported rows,data/numbers.csv,"Sum CFO / sum group profit, 2 years",Calculated
+Dabur,revenue_cagr,0.049145,ratio,FY22-FY26,Calculated from reported rows,data/numbers.csv,(FY26 revenue / FY22 sales)^(1/4) - 1,Calculated
+Marico,revenue_cagr,0.093716,ratio,FY22-FY26,Calculated from reported rows,data/numbers.csv,(FY26 revenue / FY22 sales)^(1/4) - 1,Calculated
+Dabur,cfo_to_pat_cum,1.213714,ratio,FY24-FY26,Calculated from reported rows,data/numbers.csv,"Sum CFO / sum group profit, 3 years",Calculated
+Marico,cfo_to_pat_cum,0.993086,ratio,FY25-FY26,Calculated from reported rows,data/numbers.csv,"Sum CFO / sum group profit, 2 years",Calculated

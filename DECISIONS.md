@@ -10,7 +10,9 @@
 | D6 | 2026-11-02 | Reflection done as a guided interview, then drafted from Ganesh's answers | Needs his own decisions and portfolio facts | Ganesh |
 | D7 | 2026-11-02 | Draft Parts A and B now; outline both Part C versions (back Dabur / back Marico); Ganesh picks after reading Part A | Recommendation must be his | Ganesh |
 | D8 | 2026-11-02 | Voice: first person, plain, short sentences | Brief asks for a personal recommendation in plain language | Ganesh |
+| D9 | 2026-11-05 | Part C = Option 2: back Dabur | Ganesh's call after reading Part A | Ganesh |
+| D10 | 2026-11-05 | Deck in Slides artifact, written submission in Docs artifact, both exported to PDF by Ganesh | Editable, exportable | Ganesh |
 
 ## Open questions
 - Q1: RESOLVED 2026-11-02: hard deadline 5 Nov; target 4 Nov as buffer.
-- Q2: Deck format: PDF built how (Slides artifact exported to PDF vs. pptx)? Decide at M6.
+- Q2: RESOLVED (D10).
