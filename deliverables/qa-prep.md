@@ -1,0 +1,16 @@
+# Q&A prep: the one question after the talk
+
+Answer in two sentences: the number, then where it comes from. If you forget a figure, say how it is calculated and which statement holds it.
+
+| Likely question | Answer | Where the number comes from |
+|---|---|---|
+| Marico has 2.5x the ROE and half your company's cash is idle. At what point does Dabur's "resilience" become poor performance? | That point is my switch condition: operating margin below 15% in FY27 with revenue growth under 6%. Until then the cash is a cushion I am paying for in returns, and I say so. | Operating margin = (PBT before exceptional items − other income + finance costs) ÷ revenue; FY26 1,983 ÷ 13,193 = 15.0%, Dabur FY26 consolidated P&L |
+| You call Marico less resilient, but it is also net cash with 40x interest cover. Why is that weaker? | It is not weak; it is less cushioned. Net cash ₹2,221 cr vs ₹8,426 cr, it funds a 34-day cycle vs Dabur's −14, and cash fell to 82% of profit in FY25. | Cash and investments − borrowings, FY26 balance sheets; CCC from closing receivables, inventory, payables |
+| Why is Dabur's cash above profit? Is it just depreciation? | Depreciation (₹469 cr) is mostly offset by interest income moved to investing (−₹366 cr). The real driver is trade payables: suppliers funded ₹752 cr over three years, plus receivables fell ₹177 cr in FY26. | Dabur consolidated cash flow statements FY24 to FY26, working capital lines |
+| Walk me through Dabur's DuPont. | 14.36% net margin × 0.755 asset turnover × 1.531 assets/equity = 16.6%, equal to 1,895 ÷ 11,420. Closing balances, owners' profit and owners' equity. | FY26 P&L and balance sheet |
+| Why does Marico's ROE beat Dabur's by so much? | Turnover (1.35 vs 0.75) and leverage (2.39 vs 1.53). Dabur's assets are 54% cash and investments, which earn interest, not operating profit; Marico's leverage includes non-bank liabilities such as buy-out obligations. | DuPont factors, FY26 statements |
+| Why did Marico's margin fall while revenue grew 26%? | India value grew 28% on 8% volume: price passed on as copra rose. Material cost went 49.7% to 55.5% of revenue, so gross margin fell 50.3% to 44.5%, yet operating profit still rose 8%. | Marico Q4 FY26 presentation; built gross margin from the P&L |
+| What is the ratio that misleads for Dabur? | ROCE. Headline 20% mixes a consumer business with a ₹9,489 cr treasury. Strip the treasury out and operating profit on what is left is roughly 59%, though that figure is sensitive. | (PBT + finance costs) ÷ (total equity + borrowings); treasury from balance sheet |
+| Debt/equity is tiny for both. So what is the 1.53 leverage factor? | Assets ÷ equity counts every liability. For Dabur the biggest is ₹2,954 cr owed to suppliers, not ₹1,063 cr of borrowings. | FY26 balance sheet |
+| Why does Dabur borrow at all? | I could not tell from the statements: ₹1,047 cr short-term borrowings at ~₹145 cr finance cost while holding ₹9,489 cr. That is the question I would put to management. | FY26 balance sheet and P&L |
+| How did you get gross margin without a COGS line? | Built it: materials consumed + purchases of stock-in-trade + change in inventories. Same method for both. Dabur 48.3%, Marico 44.5% in FY26. | Statutory P&L lines |
